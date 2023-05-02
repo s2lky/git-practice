@@ -10,6 +10,8 @@ Abstract : This prohect is to practice git.
 - Visual mode: press `v` on Normal mode
 - Command mode: press `:` on Normal mode
 
+Now I am doing restore practice.
+
 ## Installation
 
 ```shell
